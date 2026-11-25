@@ -3,6 +3,8 @@
 A phone app for Nico's PT business (ND Fitness Co., Redbourn Leisure Centre, Instagram @ndfitnessco).
 Built by Dave Brooke for Nico. It's a separate project from NGL / SAADI.
 
+**Live link for clients:** https://davidcbrooke.github.io/nd-fitness/ (GitHub Pages, deploys from `main`)
+
 ## How it works
 - **One link.** Opened in a browser, `index.html` shows a landing page with **iPhone** and **Android** download buttons and step-by-step install instructions. Once it's added to the home screen, the dumbbell icon opens straight into the app.
 - **Register on the phone.** Name, starting weight and height, goals, a PAR-Q health check and consent. At the end the client can send Nico a WhatsApp message with their sign-up details.
